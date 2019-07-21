@@ -20,6 +20,7 @@ public class LoginServlet extends HttpServlet {
 
         resp.setContentType("text/html;charset=utf-8");
         String username=req.getParameter("username");
+        username = new String(username.getBytes("iso8859-1"),"utf-8");
         String pwd=req.getParameter("pwd");
         System.out.println(username+":"+pwd);
 
