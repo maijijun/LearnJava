@@ -27,6 +27,11 @@ public class LoginServlet extends HttpServlet {
         try {
             User u = ls.chechLoginServices(username,pwd);
             System.out.println(u);
+            if(u != null){
+                resp.getWriter().write("登录成功");
+            }else{
+                resp.getWriter().write("登录失败");
+            }
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
