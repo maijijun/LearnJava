@@ -7,15 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c70aadf-afa7-4338-9219-b77d397461b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaServlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaServlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaServlet/JavaServlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaServlet/JavaServlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaServlet/WEB-INF/classes/com/maijijun/dao/impl/LoginDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaServlet/WEB-INF/classes/com/maijijun/dao/impl/LoginDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaServlet/META-INF/JavaServlet.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaServlet/com/maijijun/dao/impl/LoginDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaServlet/com/maijijun/dao/impl/LoginDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaServlet/WEB-INF/classes/com/maijijun/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaServlet/WEB-INF/classes/com/maijijun/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaServlet/com/maijijun/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaServlet/com/maijijun/servlet/LoginServlet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="258">
+              <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
+            <state relative-caret-position="209">
               <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,7 +136,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaServlet/JavaServlet.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -190,8 +184,8 @@
         <option value="$PROJECT_DIR$/JavaServlet/web/method.jsp" />
         <option value="$PROJECT_DIR$/JavaServlet/web/index.jsp" />
         <option value="$PROJECT_DIR$/JavaServlet/JavaServlet.iml" />
-        <option value="$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java" />
         <option value="$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java" />
+        <option value="$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java" />
       </list>
     </option>
   </component>
@@ -233,17 +227,6 @@
             <path>
               <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
               <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,79 +249,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="maijijun" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maijijun" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maijijun" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maijijun" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maijijun" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
@@ -468,7 +378,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563684731412</updated>
-      <workItem from="1563684736844" duration="25855000" />
+      <workItem from="1563684736844" duration="27545000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1563717702724</created>
@@ -484,11 +394,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563718188971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改LoginDaoImpl的错误">
+      <created>1563724108494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563724108494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25855000" />
+    <option name="totallyTimeSpent" value="27545000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,7 +426,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
       <window_info id="Web" sideWeight="0.14589666" side_tool="true" visible="true" weight="0.21349207" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8541033" visible="true" weight="0.21349207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8541033" visible="true" weight="0.21349207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32872504" />
       <window_info anchor="bottom" id="Spring" weight="0.32872504" />
@@ -523,7 +440,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.32923076" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49384615" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49384615" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,7 +461,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="修改LoginDaoImpl的错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改LoginDaoImpl的错误" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/artifacts/JavaServlet/index.jsp">
@@ -665,13 +583,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaServlet/JavaServlet.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="28" column="9" selection-start-line="27" selection-start-column="14" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1824" />
@@ -739,23 +650,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java">
+    <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="209">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/dao/impl/LoginDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/JavaServlet/src/com/maijijun/servlet/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        <state relative-caret-position="258">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaServlet/JavaServlet.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="28" column="9" selection-start-line="27" selection-start-column="14" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
